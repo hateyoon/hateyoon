@@ -35,6 +35,27 @@ https://app.diagrams.net/#G156kF4xOc9ZJTrTCq9h0hD01CqomfTW1M#%7B%22pageId%22%3A%
 
 https://app.diagrams.net/#G11V5Cpv339mQhgLEG3cmmprZjq3Rbp6Cr#%7B%22pageId%22%3A%22kEZoBOhEjl6iUZ26pa-0%22%7D
 
+
+
+
+
+## 📺 자주 참고하는 YouTube 채널 (YouTube Channels)
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/CHANNEL_ID_1" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #fff; background-color: #FF0000; border-radius: 5px; text-decoration: none;">https://www.youtube.com/@dream-coding 1</a>
+  <a href="https://www.youtube.com/channel/CHANNEL_ID_2" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #fff; background-color: #FF0000; border-radius: 5px; text-decoration: none;">https://www.youtube.com/@jocoding</a>
+  <a href="https://www.youtube.com/channel/CHANNEL_ID_3" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #fff; background-color: #FF0000; border-radius: 5px; text-decoration: none;">https://www.youtube.com/@nomadcoders</a>
+</p>
+
+
+
+
+
+
+
+
+
+
 <!--
 **hateyoon/hateyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
