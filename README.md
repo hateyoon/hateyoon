@@ -55,6 +55,11 @@ https://app.diagrams.net/#G11V5Cpv339mQhgLEG3cmmprZjq3Rbp6Cr#%7B%22pageId%22%3A%
 - [📂 학습 자료](./studies)
 
 
+## 프로젝트 모음
+
+- [Talent Marketplace](./projects/talent-marketplace.md)
+- [Photo Connect](./projects/photo-connect.md)
+- [Client-Expert Network](./projects/client-expert-network.md)
 
 
 
