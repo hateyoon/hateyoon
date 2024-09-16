@@ -51,7 +51,8 @@ https://app.diagrams.net/#G11V5Cpv339mQhgLEG3cmmprZjq3Rbp6Cr#%7B%22pageId%22%3A%
 
 ## 공부한 기록들
 
-
+- [📂 프로젝트 모음](./projects)
+- [📂 학습 자료](./studies)
 
 
 
