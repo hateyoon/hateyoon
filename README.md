@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Currently enhancing my skills in backend development with Django and PostgreSQL.**
 
+- 👯 I’m looking to collaborate on [seller-market](https://github.com/heize-lee/seller-marketplace)
+
 - 💬 Ask me about **Please ask me about my backend development experience**
 
 - 📫 How to reach me **yoyo00830@gmail.com**
@@ -27,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hateyoon&show_icons=true&locale=en" alt="hateyoon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hateyoon&" alt="hateyoon" /></p>
+
