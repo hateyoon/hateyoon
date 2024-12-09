@@ -7,7 +7,7 @@
 
 - 화장실 정보 공유 플랫폼: [모두의 화장실](https://github.com/hateyoon/toilet/tree/main)
 
-- 미디어 재능 거래 플랫폼: [coldpay](https://github.com/client-expert-network)
+- 미디어 재능 거래 플랫폼: [coldpay](https://github.com/client-expert-network)
 
 - 아마존을 클론코딩한 프로젝트: [seller-market](https://github.com/heize-lee/seller-marketplace)
 
